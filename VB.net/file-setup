@@ -1,0 +1,11 @@
+99916.mms
+1 = slideshow
+2/3 = slide
+45 = row
+data file is all pixel data
+info.mmi is info
+info file:
+byte 1 = slideshow number
+byte 2+3 = number of slides
+byte 4+5 = seconds per slide
+repeat 9 times

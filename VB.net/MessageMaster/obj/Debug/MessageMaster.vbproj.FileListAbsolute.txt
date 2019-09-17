@@ -1,0 +1,12 @@
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\obj\Debug\MessageMaster.vbprojAssemblyReference.cache
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\obj\Debug\MessageMaster.Form1.resources
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\obj\Debug\MessageMaster.Resources.resources
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\obj\Debug\MessageMaster.vbproj.GenerateResource.cache
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\obj\Debug\MessageMaster.vbproj.CoreCompileInputs.cache
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\bin\Debug\MessageMaster.exe.config
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\bin\Debug\MessageMaster.exe
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\bin\Debug\MessageMaster.pdb
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\bin\Debug\MessageMaster.xml
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\obj\Debug\MessageMaster.exe
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\obj\Debug\MessageMaster.xml
+C:\Users\merte\source\repos\MessageMaster\MessageMaster\obj\Debug\MessageMaster.pdb
